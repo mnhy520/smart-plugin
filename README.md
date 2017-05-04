@@ -1,2 +1,2 @@
 # smart-plugin
-jquery插件
+jquery插件1
